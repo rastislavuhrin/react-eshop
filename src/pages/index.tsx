@@ -16,7 +16,7 @@ export default function Home() {
          </Head>
          <main className='flex justify-between'>
             <ProductList />
-            <Link href='/cart' className='text-xl'>
+            <Link href='/CartPage' className='text-xl'>
                CART
             </Link>
          </main>
