@@ -15,4 +15,4 @@ const Cart = () => {
    );
 };
 
-export default Product;
+export default Cart;

@@ -7,7 +7,6 @@ interface Props {
 
 interface Product {
    id: number;
-   href: string;
    imageSrc: string;
    imageAlt: string;
    name: string;

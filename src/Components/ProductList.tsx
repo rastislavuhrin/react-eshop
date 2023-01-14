@@ -2,6 +2,7 @@ import React from 'react';
 import { Product } from './Product';
 import products from '../data/products.json';
 export const ProductList = () => {
+   console.log('produuuu', products);
    return (
       <div className='bg-white'>
          <div className='mx-auto max-w-2xl py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8'>
