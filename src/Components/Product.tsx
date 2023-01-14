@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Image from 'next/image';
-
+import { CartContext } from '../context/CartContextProvider';
 interface Props {
    product: Product;
 }
@@ -15,8 +15,18 @@ interface Product {
 }
 export const Product = (productWrapper: Props) => {
    const { product } = productWrapper;
+   const value = React.useContext(CartContext);
+
+   useEffect(() => {
+      console.log('vat', value.cardItems);
+
+      value.addToCard([product.id]);
+      console.log('vat', value.cardItems);
+   }, []);
+   console.log('vat', value.cardItems);
+
    return (
-      <a href={product.href} className='group'>
+      <a href={product.href} className='group '>
          <div className='aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-w-7 xl:aspect-h-8'>
             <Image
                src={product.imageSrc}
@@ -33,7 +43,16 @@ export const Product = (productWrapper: Props) => {
                   {product.price}
                </p>
             </div>
-            <div className='self-center'>BUY</div>
+            <div
+               className='self-center'
+               onClick={() => value.addToCard([product.id])}>
+               add
+            </div>
+            <div
+               className='self-center'
+               onClick={() => value.removeFromCart(product.id)}>
+               delete
+            </div>
          </div>
       </a>
    );

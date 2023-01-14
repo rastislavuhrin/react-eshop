@@ -1,5 +1,7 @@
 import Head from 'next/head';
 import { ProductList } from '../Components/ProductList';
+import Link from 'next/link';
+
 export default function Home() {
    return (
       <>
@@ -12,9 +14,11 @@ export default function Home() {
             />
             <link rel='icon' href='/favicon.ico' />
          </Head>
-         <main className=''>
-            asdad
+         <main className='flex justify-between'>
             <ProductList />
+            <Link href='/cart' className='text-xl'>
+               CART
+            </Link>
          </main>
       </>
    );
