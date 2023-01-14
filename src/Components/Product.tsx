@@ -26,7 +26,7 @@ export const Product = (productWrapper: Props) => {
    console.log('vat', value.cardItems);
 
    return (
-      <a href={product.href} className='group '>
+      <a className='group '>
          <div className='aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-w-7 xl:aspect-h-8'>
             <Image
                src={product.imageSrc}

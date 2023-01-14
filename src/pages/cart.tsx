@@ -1,6 +1,7 @@
 import React from 'react';
 import { CartContext } from '../context/CartContextProvider';
-const Product = () => {
+import { Product } from '../Components/Product';
+const Cart = () => {
    const { addToCard, cardItems, removeFromCart } =
       React.useContext(CartContext);
    return (
