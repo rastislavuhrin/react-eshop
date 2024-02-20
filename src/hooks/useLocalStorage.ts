@@ -14,7 +14,7 @@ export function useLocalStorage<T>(key: string, initialValue: T | (() => T)) {
 //     } else {
 //       return initialValue
 //     }
-//     }hsnemam cas
+//     }hsnemam cas c
 //   })
    const [value, setValue] = useState([] as number[]);
   useEffect(() => {
