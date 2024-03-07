@@ -3,7 +3,7 @@ import { CartContext } from '../context/CartContextProvider';
 import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
-// CartPage 10
+// CartPage 11
 const CartPage = () => {
    const { addToCard, cardItems, removeFromCart } =
       React.useContext(CartContext);
