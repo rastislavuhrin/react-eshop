@@ -4,6 +4,20 @@ import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
 // CartPage 28
+// "Refactored calculate_area function for clarity and improved efficiency. "
+
+// This commit message follows a common format that includes:
+
+// A brief description of the change: "Refactored calculate_area function"
+// The benefit of the change: "for clarity and improved efficiency"
+// Optional emoji (fun but not required): "" (ruler and rocket emoji for clarity and speed)
+// Here are a few more random commit messages you can use:
+
+// "Fixed null pointer exception in process_data method. "
+// "Added unit tests for user_login functionality. ️✅"
+// "Improved documentation for the APIRequest class. "
+// "Updated dependencies to address security vulnerabilities. "
+// "Minor bug fixes and code cleanup. ✨"
 const CartPage = () => {
    const { addToCard, cardItems, removeFromCart } =
       React.useContext(CartContext);
