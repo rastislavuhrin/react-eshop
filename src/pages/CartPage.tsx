@@ -3,7 +3,7 @@ import { CartContext } from '../context/CartContextProvider';
 import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
-// CartPage 31
+// CartPage 32
 // "Refactored calculate_area function for clarity and improved efficiency. "
 
 // This commit message follows a common format that includes:
