@@ -3,7 +3,7 @@ import { CartContext } from '../context/CartContextProvider';
 import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
-// CartPage 35
+// CartPage 36
 5;
 // "Refactored calculate_area function for clarity and improved efficiency. "
 
