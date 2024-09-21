@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
 // CartPage 47ggdddfffssfssssssssssss
 5;
-// "Refactored calculate_area function for clsssssarity and improved efficiency. "
+// "Refactored calculate_area function for clsssssssssssarity and improved efficiency. "
 
 // This commit message follows a common format that includes:
 
