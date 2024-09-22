@@ -7,7 +7,7 @@ import { CartItem } from '../Components/CartItem';
 5;
 // "Refactored calculate_area function for clsssssssssssarity and improved efficiency. "
 
-// This commit message follows a common format that includes:
+// This commit ssssssmessage follows a common format that includes:
 
 // A brief description of the change: "Refactored calculate_area function"
 // The benefit of the change: "for clarity and improved efficiency"
