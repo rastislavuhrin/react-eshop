@@ -5,12 +5,12 @@ import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
 // CartPage 47ggdddfffssfssssssssssss
 5;
-// "Refactored calculate_area function for clsssssssssssarity and improved efficiency. "
+// "Refactored calculatess_area function for clsssssssssssarity and improved efficiency. "
 
-// This commit ssssssmessage follows a common format that includes:
+// This commit ssssssmessage fosssllows a common format that includes:
 
-// A brief description of the change: "Refactored calculate_area function"
-// The benefit of the change: "for clarity and improved efficiency"
+// A brief description of the change: "Refactored cssalculate_area function"
+// The benefit of sssthe change: "for clarity and improved efficiency"
 // Optional emoji (fun but not required): "" (ruler and rocket emoji for clarity and speed)
 // Here are a few more random commit messages you can use:
 
