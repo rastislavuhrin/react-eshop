@@ -10,7 +10,7 @@ import { CartItem } from '../Components/CartItem';
 // This commit ssssssmessage fosssllows a common format that includes:
 
 // A brief description of the change: "Refactored cssalculate_area function"
-// The benefit of sssthe change: "for clarity and improved efficiency"
+// The benefit of sssthe change: "forssss clarity and improved efficiency"
 // Optional emoji (fun but not required): "" (ruler and rocket emoji for clarity and speed)
 // Here are a few more random commit messages you can use:
 
