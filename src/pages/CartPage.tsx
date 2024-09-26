@@ -6,7 +6,7 @@ import { CartItem } from '../Components/CartItem';
 // CartPage 47ggdddfffssfssssssssssss
 5;
 // "Refactored calculatess_area function for clsssssssssssarity and improved efficiency. "
-
+sss;
 // This commit ssssssmessage fosssllows a common format that includes:
 
 // A brief description of the change: "Refactored cssalculate_area function"
