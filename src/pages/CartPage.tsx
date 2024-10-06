@@ -4,15 +4,12 @@ import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
 // CartPage 47ggdddfffssfssssssssssss
-5;
 // "Refactored calculatess_area function for clsssssssssssarity and improved efficiency. "
-sss;
 // This commit ssssssmessage fosssllows a common format that includes:
-fffff;
 // A brief desssssssscription of the change: "Refactored cssalculate_area function"
 // The benefit of sssthe chanssge: "forssss clarity and improved efficiency"
-// Optional emoji (fun bussst not required): "" (ruler and rocket emoji for clarity and speed)
-// Here are a few more random commit messages you can use:
+// Optional emojiaaa (fun bussst not required): "" (ruler and rocket emoji for clarity and speed)
+// Here are a few morsse random commit messages you can use:
 
 // "Fixed null pointer exception in process_data method. "
 // "Added unit tests for user_login functionality. ️✅"
