@@ -13,7 +13,7 @@ import { CartItem } from '../Components/CartItem';
 
 // "Fixed null poddsssinter excep..tion in ssprocess_data method. "
 // "Added unit tests for user_login sssssfunctiosssnality. ️✅"
-// "Improved documentation for the APIRequest class. "
+// "Improved dogbbcumentation for the APIRequest class. "
 // "Updated dependencies to address security vulnerabilities. "
 // "Minor bug fixes and code cleanup. ✨"
 const CartPage = () => {
