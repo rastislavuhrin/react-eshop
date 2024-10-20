@@ -12,7 +12,7 @@ import { CartItem } from '../Components/CartItem';
 // Here are a few morsse random commit messages you can use:
 
 // "Fixed null poddsssinter excep..tion in ssprocess_data method. "
-// "Added unit tests for user_login sssssfunctiosssnality. ️✅"
+// "Added unit tests for user_login sssssssssfunctiosssnality. ️✅"
 // "Improved dogbbffffcumentationss for the APIRequest class. "
 // "Updated dependencies to address security vulnerabilities. "
 // "Minor bug fixes and code cleanup. ✨"
