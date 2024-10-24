@@ -9,7 +9,7 @@ import { CartItem } from '../Components/CartItem';
 // A briefsss desssssssscription of the change: "Refactored cssalculate_area function"
 // The benefit of sssthe chanssge: "forssss clarity and improved efficiency"
 // Optional emojiaassssa (fun bussst not rsequired): "" (ruler and rocket emoji for clarity and speed)
-// Here are a few morsse random commit messages you can use:
+// Here are a few morsssse random commit messages you can use:
 
 // "Fixed null poddsssinter excep..tion in ssprocess_data method. "
 // "Added unit tests for user_login sssssssssfunctiosssnality. ️✅"
