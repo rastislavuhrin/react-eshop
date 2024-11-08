@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
 // CartPage 47ggdddfffssfssssssssssss
 // "Refactored calculatess_areass funsction for clsssssssssssarity and improved efficiency. "
-// Thixxxs commit dssssssssssssmessage fosssllows a common format that includes:
+// Thixxxs commit dsssssssssssssssmessage fosssllows a common format that includes:
 // Ass briefsss desssssssscription of the change: "Refactored cssalculate_area function"
 // The benefit of sssthe chanssge: "forssss clarity and improved efficiency"
 // Opssstional emojiaassssa (fun bussst not rsequired): "" (ruler and rocket emoji for clarity and speed)
