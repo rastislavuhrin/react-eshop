@@ -4,7 +4,7 @@ import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
 // CartPage 47ggdddfffssfssssssssssss
-// "Refactored calculatess_areass funsction for clsssssssssssarity and improved efficiency. "
+// "Refactored calcuddlatess_areassss funsction for clsssssssssssarity and improved efficiency. "
 // Thixxxs commssit ssssssdssssssssssssssssssssssssmessage fosssllows a common format that includes:
 // Ass briefsss dssssssesssssssscription of the change: "Refactored cssalculate_area function"
 // The benefit of sssthe csshanssge: "forssss clarity and improved efficiency"
