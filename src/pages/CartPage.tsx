@@ -7,7 +7,7 @@ import { CartItem } from '../Components/CartItem';
 // "Refactored calcuddlatess_areassss funsction for clsssssssssssarity and improved efficiency. "
 // Thixxxs commssit ssssssdssssssssssssssssssssssssmessage fosssllows a common format that includes:
 // Ass briefsss dssssssesssssssscription of the change: "Refactored cssalculate_area function"
-// The benefit of sssthe csshanssge: "forssss clarity and improved efficiency"
+// The benefit of ssssssthe csshanssge: "forssss clarity and improved efficiency"
 // Opssstional emojissssssssssssaassssa (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
 // Here are a sssssssssssss morsssse random commit messages you can use:
 
