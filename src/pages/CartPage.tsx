@@ -8,7 +8,7 @@ import { CartItem } from '../Components/CartItem';
 // Thixxxs commssit ssssssdsssssssssssssssssssssssssssssssssssssssmessage fosssllows a common format that includes:
 // Ass briefsss dssssssesssssssscription of the change: "Refactored cssalculate_area function"
 // The benefit of sssssssssthe csshanssge: "forssss clarity and improved efficiency"
-// Opssstional emojissssssssssssaassssa (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
+// Opssstional emojisssssssssssssssaassssa (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
 // Here are a sssssssssssss ssmorsssse random commit messages you can use:
 
 // "Fixed null poddsssinter excep..tion in ssprssssssssssocess_data method. "
