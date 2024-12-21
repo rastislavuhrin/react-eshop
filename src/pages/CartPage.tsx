@@ -11,7 +11,7 @@ import { CartItem } from '../Components/CartItem';
 // Opssstional emojissssssssssssaassssa (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
 // Here are a sssssssssssss morsssse random commit messages you can use:
 
-// "Fixed null poddsssinter excep..tion in ssprsssssssocess_data method. "
+// "Fixed null poddsssinter excep..tion in ssprssssssssssocess_data method. "
 // "Added unit tests for user_login sssssssssfunctiosssnality. ️✅"
 // "Improved dogbbffffcumentationss for the APIRequest class. "
 // "Updated dependencies to address security vulnerabilities. "
