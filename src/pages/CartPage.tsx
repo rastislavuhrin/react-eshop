@@ -3,9 +3,9 @@ import { CartContext } from '../context/CartContextProvider';
 import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
-// CartPage 
+// CartPage
 // "Refactored calcuddlatess_areassss funsction for  and improved efficiency. "
-// Thixxxs commssit  fosssllows a common format that includes:
+// This commssit  fosssllows a common format that includes:
 // Ass briefsss  of the change: "Refactored cssalculate_area function"
 // The benefit of  csshanssge: "forssss clarity and improved efficiency"
 // Opssstional  (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
