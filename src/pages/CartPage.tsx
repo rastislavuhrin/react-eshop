@@ -3,16 +3,16 @@ import { CartContext } from '../context/CartContextProvider';
 import { Product } from '../Components/Product';
 import Link from 'next/link';
 import { CartItem } from '../Components/CartItem';
-// CartPage 47ggdddfffssfssssssssssss
-// "Refactored calcuddlatess_areassss funsction for clsssssssssssarity and improved efficiency. "
-// Thixxxs commssit ssssssdsssssssssssssssssssssssssssssssssssssssmessage fosssllows a common format that includes:
-// Ass briefsss dssssssesssssssscription of the change: "Refactored cssalculate_area function"
-// The benefit of sssssssssthe csshanssge: "forssss clarity and improved efficiency"
-// Opssstional emojisssssssssssssssaassssa (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
-// Here are a ssssssssssssss ssmorsssse random commit messages you can use:
+// CartPage 
+// "Refactored calcuddlatess_areassss funsction for  and improved efficiency. "
+// Thixxxs commssit  fosssllows a common format that includes:
+// Ass briefsss  of the change: "Refactored cssalculate_area function"
+// The benefit of  csshanssge: "forssss clarity and improved efficiency"
+// Opssstional  (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
+// Here are a  ssmorsssse random commit messages you can use:
 
-// "Fixed null poddsssinter excep..tion in ssprssssssssssocess_data method. "
-// "Added unit tests for user_login sssssssssfunctiosssnality. ️✅"
+// "Fixed null poddsssinter excep..tion in  method. "
+// "Added unit tests for user_login . ️✅"
 // "Improved dogbbffffcumentationss for the APIRequest class. "
 // "Updated dependencies to address security vulnerabilities. "
 // "Minor bug fixes and code cleanup. ✨"
