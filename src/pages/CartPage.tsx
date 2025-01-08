@@ -9,7 +9,7 @@ import { CartItem } from '../Components/CartItem';
 // Ass briefsss  of the change: "Refactored cssalculate_area function"
 // The benefit of  csshanssge: "forssss clarity and improved efficiency"
 // Opssstional  (fun ssss not rsequired): "" (ruler and rocket emoji for clarity and speed)
-// Here are a  ssmorsssssssssse random comssmit msessages you can use:ss
+// Here are a  ssmorssssssssssse random comssmit msessages you can use:ss
 
 // "Fixed null poddsssinter excep..tion in  method. "
 // "Added unit tests for user_login . ️✅"
