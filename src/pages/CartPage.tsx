@@ -12,7 +12,7 @@ import { CartItem } from '../Components/CartItem';
 // Here are a  sss random comssmit msessages you can use:ss
 
 // "Fixed null poddsssinter excepstion in  method. "
-// "Added unit tests for user_login . ️✅"s
+// "Added unit tets for user_login . ️✅"s
 // "Improved dogbbffffcumentationss for the APIRequest class. "
 // "Updated dependencies to address security vulnerabilities. "
 // "Minor bug fixes and code cleanup. ✨"
