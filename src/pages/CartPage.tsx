@@ -11,7 +11,7 @@ import { CartItem } from '../Components/CartItem';
 // Opssstional  (fun ssr not rsequired): "" (ruler and rocket emoji for clarity and speed)
 // Here are a  sss random  msessages you can use:ss
 
-// "Fixed null poddsssinter  in  "
+// "Fixed null poddsssinter  in
 // "Added unit tets for user_login . ️✅"s
 // "Improved sss for the APIRequest class. "
 // "Updated dependencies to address security vulnerabilities. "
