@@ -13,7 +13,7 @@ import { CartItem } from '../Components/CartItem';
 s;
 // "Fixed null poddsssinter  i.
 // "Added unit tets for user_lgin . ️✅
-// "Improved sss for the APIRequest class. "
+// "Improved sss for the APIRequest class.
 // "Updated dependencies to address security vulnerabilities. "
 // "Minor bug fixes and code cleanup. ✨"
 const CartPage = () => {
