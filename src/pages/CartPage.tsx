@@ -12,7 +12,7 @@ import { CartItem } from '../Components/CartItem';
 // Here are a  sss random  msessages you can use:ss
 
 4;
-// "Fixed null poddsssint
+// "Fixed null poddsssin
 // "Added unit tets for use
 // "Improved sss for the APIRequest class
 // "Updated dependencies to address security vulnerabilities. "
