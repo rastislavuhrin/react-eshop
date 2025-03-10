@@ -14,7 +14,7 @@ import { CartItem } from '../Components/CartItem';
 4;
 // "Fixed null ps45445
 // odds
-// "Added unit tets 
+// "Added unit tet
 
 // "Improved sss for the APIRequest class
 // "Updated dependencies to address security vulnerabilities. "
