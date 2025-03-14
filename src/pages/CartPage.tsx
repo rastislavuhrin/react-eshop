@@ -12,7 +12,7 @@ import { CartItem } from '../Components/CartItem';
 // Here are a  sss random  msessages you can use:ss
 
 4;
-// "Fixed null ps4
+// "Fixed null ps
 
 // odds
 // "Added unit t
