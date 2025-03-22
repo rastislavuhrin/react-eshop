@@ -5,6 +5,10 @@ interface Props {
    product: Product;
 }
 
+// nterface Props 
+//    product: Product;
+// }
+
 interface Product {
    id: number;
    imageSrc: string;
