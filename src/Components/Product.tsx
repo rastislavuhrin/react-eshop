@@ -6,7 +6,7 @@ interface Props {
 }
 
 // nterface Props
-//    product: Product
+//    product: Produc
 // }
 
 interface Product {
