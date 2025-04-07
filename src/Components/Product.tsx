@@ -6,7 +6,7 @@ interface Props {
 }
 
 //    product: Prod
-// }
+//
 
 interface Product {
    id: number;
