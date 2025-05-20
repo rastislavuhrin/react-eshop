@@ -5,7 +5,7 @@ interface Props {
    product: Product;
 }
 
-//    prod
+//    proa
 //
 
 interface Product {
